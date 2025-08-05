@@ -23,9 +23,3 @@ I created this roadmap to:
 - **Build projects** – anything! But make it meaningful to you  
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/amirkhon-m/python-programming.git
