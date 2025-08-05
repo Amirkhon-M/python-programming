@@ -14,8 +14,3 @@
 13. Pharmacy - medical store management 
 14. Blood bank system
 15. Online shopping and delivery system (like amazon)
-16. Online car shopping 
-17. Tourism portal
-18. World tourism portal
-19. Higher education abroad portal
-20. Job search/recruitment portal
