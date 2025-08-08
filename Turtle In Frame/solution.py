@@ -1,0 +1,6 @@
+symbol = '*'
+print(symbol * 10)
+print(symbol + ' ' * 8 + symbol)
+print(symbol + ' ' + 'Turtle' + ' ' + symbol)
+print(symbol + ' ' * 8 + symbol)
+print(symbol * 10)
