@@ -7,9 +7,9 @@ Welcome to my personal **Python Roadmap**, built to help both **beginners** and 
 ## ✨ Why This Roadmap?
 
 I created this roadmap to:
-- Learn and code every day
+- Learn and code
 - Stay consistent with my learning
-- Build projects that are meaningful to me
+- Build projects that can be meaningful
 - Help others follow a structured learning path
 
 ---
